@@ -33,3 +33,11 @@ npm run build
 ```sh
 npm run lint
 ```
+
+
+## Examples:
+- a computed ref, v-if v-else, v-for, Displaying Filtered/Sorted Results, method handler, event argument inline handler, 
+form input bindin, mukltiline, checkbox, select, template refs, alert, passing props, event args., mulk. v-model binding, slot,
+rendeless components, async state, usign plugin, mouse tracker
+- To-Do List table
+- blog post pages
